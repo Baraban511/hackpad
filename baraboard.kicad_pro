@@ -473,7 +473,7 @@
       "plot": "PDF/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "baraboard.step",
       "svg": "",
       "vrml": ""
     },
