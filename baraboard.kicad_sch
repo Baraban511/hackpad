@@ -2869,7 +2869,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 160.02 113.03 0)
 			(effects
 				(font
@@ -3243,7 +3243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 160.02 133.35 0)
 			(effects
 				(font
@@ -3311,7 +3311,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 160.02 74.93 0)
 			(effects
 				(font
@@ -3687,7 +3687,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
+		(property "Footprint" "ScottoKeebs_Scotto:Encoder_EC11_MX"
 			(at 148.59 164.084 0)
 			(effects
 				(font
@@ -3830,7 +3830,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 170.18 113.03 0)
 			(effects
 				(font
@@ -3898,7 +3898,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 180.34 93.98 0)
 			(effects
 				(font
@@ -4032,7 +4032,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 160.02 93.98 0)
 			(effects
 				(font
@@ -4166,7 +4166,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 170.18 74.93 0)
 			(effects
 				(font
@@ -4398,7 +4398,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_2.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_2.00u"
 			(at 170.18 133.35 0)
 			(effects
 				(font
@@ -4910,7 +4910,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 180.34 133.35 0)
 			(effects
 				(font
@@ -5492,7 +5492,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 180.34 113.03 0)
 			(effects
 				(font
@@ -5769,7 +5769,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 170.18 93.98 0)
 			(effects
 				(font
@@ -7384,7 +7384,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ScottoKeebs_Hotswap:Hotswap_MX_Plated_1.00u"
+		(property "Footprint" "ScottoKeebs_MX:MX_PCB_1.00u"
 			(at 180.34 74.93 0)
 			(effects
 				(font
