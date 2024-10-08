@@ -467,7 +467,7 @@
   },
   "pcbnew": {
     "last_paths": {
-      "gencad": "",
+      "gencad": "baraboard.cad",
       "idf": "",
       "netlist": "",
       "plot": "PDF/",
