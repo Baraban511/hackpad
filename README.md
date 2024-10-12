@@ -8,4 +8,4 @@
     [ ] 1x EC11 Encoder
     [ ] 12x WS2812B LEDs
 
-### If possible, I would like the plate in acrylic and the pcb in black. If it's not possible, feel free to choose the best option.
+### If possible, I would like the plate in acrylic and the pcb and the case in black. If it's not possible, feel free to choose the best option.
